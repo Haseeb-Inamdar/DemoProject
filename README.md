@@ -1,3 +1,4 @@
 # DemoProject
 This is my first Git Repo
-Author - Hasib Inamdar 
+<br>
+<b>Author</b> - Hasib Inamdar 
