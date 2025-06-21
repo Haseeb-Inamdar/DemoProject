@@ -1,2 +1,3 @@
 # DemoProject
-This is demo project for HandsOn Practice of Git
+This is my first Git Repo
+Author - Hasib Inamdar 
