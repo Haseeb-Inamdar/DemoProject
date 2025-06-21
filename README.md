@@ -1,4 +1,4 @@
 # DemoProject
 This is my first Git Repo
 <br>
-<b>Author</b> - Hasib Inamdar 
+<b>Author</b> - <i>Hasib Inamdar</i>
